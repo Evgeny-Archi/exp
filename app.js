@@ -1,3 +1,1 @@
-console.log(2);
-
-// some comment
+console.log(1);
